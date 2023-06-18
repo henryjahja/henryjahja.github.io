@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "name": "Henry Jahja",
+      "titles": [ "Data Engineer", "Data Analyst", "Back-End Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/HenryJahja",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://linkedin.com/in/HenryJahja",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "resume",
+          "url": "https://docs.google.com/document/d/1CC6WV9ROBjVeQSutSugdRz8VaEdSDjDo6GXxG620r6s/view",
+          "class": "fas fa-print"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "NumPy",
+          "class": "devicon-numpy-original-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-original-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "React.Js",
+          "class": "devicon-react-original-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "Kafka",
+          "class": "devicon-apachekafka-original-wordmark",
+          "level": "75"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark colored",
+          "level": "90"
+        },
+        {
+          "name": "GCP",
+          "class": "devicon-googlecloud-plain-wordmark colored",
+          "level": "85"
+        },
+        {
+          "name": "NginX",
+          "class": "devicon-nginx-plain-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "Apache Server",
+          "class": "devicon-apache-line-wordmark",
+          "level": "80"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain-wordmark colored",
+          "level": "65"
+        }
+      ]
+    }
+  }
