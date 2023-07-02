@@ -24,6 +24,11 @@
     "skills": {
       "icons": [
         {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark colored",
+          "level": "90"
+        },
+        {
           "name": "Python",
           "class": "devicon-python-plain-wordmark colored",
           "level": "60"
@@ -52,16 +57,6 @@
           "name": "Kafka",
           "class": "devicon-apachekafka-original-wordmark",
           "level": "75"
-        },
-        {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-plain-wordmark colored",
-          "level": "90"
-        },
-        {
-          "name": "GCP",
-          "class": "devicon-googlecloud-plain-wordmark colored",
-          "level": "85"
         },
         {
           "name": "NginX",

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Welcome!",
-      "description": "I'm Henry. An aspiring Data Engineer with expertise in Python, JavaScript, Data Analytics, and Data Science. Skilled in contract compliance, SQL query optimization, data modeling, mining, and troubleshooting. 8 years of industry experience delivering robust data solutions and actionable insights.",
+      "description": "I'm Henry. An experienced Data Engineer with expertise in Python, JavaScript, Data Analytics, and Data Science. Skilled in contract compliance, SQL query optimization, data modeling, mining, and troubleshooting. 8 years of industry experience delivering robust data solutions and actionable insights.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,37 +81,60 @@
     ],
     "experience": [
       {
-        "company": "at Cognizant Technologies",
+        "company": "at Cognizant Technologies, San Jose CA",
         "title": "Compliance Specialist",
         "years": "08 / 2020 - present",
         "mainTech": [
-          "ETL / BI / DE / DA"
+          "Data Eng, Data Viz, ACL & CMS Admin"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SQL",
+          "Tableau",
+          "Airflow",
+          "ETL",
+          "ACL",
+          "Airflow",
+          "SalesForce Administration"
         ]
       },
       {
-        "company": "at CrowdStaffing",
-        "title": "Data Analyst",
+        "company": "at CrowdStaffing, San Bruno CA",
+        "title": "Contract Specialist",
         "years": "04 / 2018 - 08 / 2019",
         "mainTech": [
-          "AppScript / Google Sheet"
+          "Data Analyst, Business Intelligence"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "SQL",
+          "Google Sheet",
+          "AppScript / JavaScript"
+        ]
+      },
+      {
+        "company": "at Berry Appleman & Leiden, LLP, San Francisco CA",
+        "title": "File Clerk",
+        "years": "10 / 2014 - 12 / 2017",
+        "mainTech": [
+          "Administrative Assistant"
+        ],
+        "technologies": [
+          "Filing",
+          "Immigration Contract",
+          "Administrative Assistance"
+        ]
+      },
+      {
+        "company": "at Esa Unggul University, Jakarta, Indonesia",
+        "title": "Technical Intern",
+        "years": "03 / 2012 - 04 / 2012",
+        "mainTech": [
+          "Computer Science Internship"
+        ],
+        "technologies": [
+          "Active Directory",
+          "Windows Licensing",
+          "Software Support",
+          "Hardware Support"
         ]
       }
     ]
