@@ -11,6 +11,9 @@
 # production
 /build
 
+# Old Template
+/Old Site
+
 # misc
 .DS_Store
 .env.local
