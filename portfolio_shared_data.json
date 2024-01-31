@@ -15,7 +15,7 @@
         },
         {
           "name": "resume",
-          "url": "https://docs.google.com/document/d/1CC6WV9ROBjVeQSutSugdRz8VaEdSDjDo6GXxG620r6s/view",
+          "url": "https://docs.google.com/document/d/1gsxRnq8ZC5TdKd_XhnsYiScTLzY6EIQ3FYJY7qsRHTs/view",
           "class": "fas fa-print"
         }
       ],
@@ -24,23 +24,18 @@
     "skills": {
       "icons": [
         {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-plain-wordmark colored",
-          "level": "90"
-        },
-        {
           "name": "Python",
-          "class": "devicon-python-plain-wordmark colored",
+          "class": "devicon-python-plain colored",
           "level": "60"
         },
         {
           "name": "NumPy",
-          "class": "devicon-numpy-original-wordmark colored",
+          "class": "devicon-numpy-original colored",
           "level": "60"
         },
         {
           "name": "Pandas",
-          "class": "devicon-pandas-original-wordmark",
+          "class": "devicon-pandas-original",
           "level": "60"
         },
         {
@@ -49,38 +44,113 @@
           "level": "70"
         },
         {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain colored",
+          "level": "90"
+        },
+        {
           "name": "React.Js",
-          "class": "devicon-react-original-wordmark colored",
+          "class": "devicon-react-original colored",
           "level": "60"
         },
         {
           "name": "Kafka",
-          "class": "devicon-apachekafka-original-wordmark",
+          "class": "devicon-apachekafka-original",
           "level": "75"
         },
         {
           "name": "NginX",
-          "class": "devicon-nginx-plain-wordmark colored",
+          "class": "devicon-nginx-plain colored",
           "level": "60"
         },
         {
           "name": "Apache Server",
-          "class": "devicon-apache-line-wordmark",
+          "class": "devicon-apache-line",
           "level": "80"
         },
         {
           "name": "MySql",
-          "class": "devicon-mysql-plain-wordmark",
+          "class": "devicon-mysql-plain",
           "level": "60"
         },
         {
           "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain-wordmark colored",
+          "class": "devicon-postgresql-plain colored",
           "level": "60"
         },
         {
           "name": "MongoDB",
-          "class": "devicon-mongodb-plain-wordmark colored",
+          "class": "devicon-mongodb-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "CodeIgniter",
+          "class": "devicon-codeigniter-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "GCP",
+          "class": "devicon-googlecloud-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "HTML5",
+          "class": "devicon-html5-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "CSS3",
+          "class": "devicon-css3-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "65"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Oracle Fusion",
+          "class": "devicon-oracle-original colored",
+          "level": "65"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Salesforce",
+          "class": "devicon-salesforce-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-vscode-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Word Press",
+          "class": "devicon-wordpress-plain",
           "level": "65"
         }
       ]
