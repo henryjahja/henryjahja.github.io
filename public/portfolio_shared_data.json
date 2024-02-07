@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Henry Jahja",
-      "titles": [ "Data Engineer", "Data Analyst", "Back-End Engineer" ],
+      "titles": [ "Data Engineer", "Data Analyst", "Compliance Specialist", "Data Specialist", "Technical Analyst", "Full-Stack Engineer", "System Administrator", "Access Control Administrator" ],
       "social": [
         {
           "name": "github",
@@ -30,12 +30,12 @@
         },
         {
           "name": "NumPy",
-          "class": "devicon-numpy-original colored",
+          "class": "devicon-numpy-plain colored",
           "level": "60"
         },
         {
           "name": "Pandas",
-          "class": "devicon-pandas-original",
+          "class": "devicon-pandas-plain",
           "level": "60"
         },
         {

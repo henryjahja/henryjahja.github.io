@@ -1,81 +1,84 @@
 {
     "basic_info": {
-      "description_header": "Selamat Datang!",
+      "description_header": "Ini Henry Jahja",
       "description": "Saya Henry. Data Engineer berpengalaman dengan keahlian dalam Python, JavaScript, Analisis Data, dan Sains Data. Terampil dalam peraturan kontrak, pengoptimalan SQL, permodelan dan pengalian data, dan solusi. Berpengalaman selama 8 tahun dalam menyediakan solusi data dan wawasan dalam persiapan pengambilan keputusan.",
       "section_name": {
         "about": "Tentang Saya",
-        "projects": "Proyek",
+        "projects": "Di Internet",
         "skills": "Keahlian",
         "experience": "Pengalaman"
       }
     },
     "projects": [
       {
-        "title": "Data Engineering",
-        "startDate": "2020",
-        "description": "<Description coming soon! :)>",
+        "title": "LinkedIn",
+        "startDate": "/in/HenryJahja/",
+        "description": "Check out my professional profile to see my work experience and any other skills listed.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/profiles/LinkedIn.png",
+          "images/portfolio/profiles/LinkedIn-pg2.png",
+          "images/portfolio/profiles/LinkedIn-pg3.png"
         ],
-        "url": "",
+        "url": "https://www.linkedin.com/in/henryjahja",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-linkedin-plain colored",
+            "name": "LinkedIn"
           }
         ]
       },
       {
-        "title": "Data Analysis",
-        "startDate": "2018",
-        "description": "<Description coming soon! :)>",
+        "title": "GitHub",
+        "startDate": "@HenryJahja",
+        "description": "All my works in Google Sheet, Python, and SQL!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/profiles/GitHub.png",
+          "images/portfolio/profiles/GitHub-pg2.png",
+          "images/portfolio/profiles/GitHub-pg3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/henryjahja",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-git-plain colored",
+            "name": "Git"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-github-original colored",
+            "name": "GitHub"
+          },
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pandas-plain colored",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-numpy-plain colored",
+            "name": "NumPy"
+          },
+          {
+            "class": "devicon-matplotlib-plain colored",
+            "name": "MatPlotLib"
+          },
+          {
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgre SQL"
           }
         ]
       },
       {
-        "title": "Data Visualization",
-        "startDate": "2018",
-        "description": "<Description coming soon! :)>",
+        "title": "Tableau",
+        "startDate": "/Henry.Jahja",
+        "description": "My Tableau data visualization hosted on Tableau public profile.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/profiles/Tableau.png",
+          "images/portfolio/profiles/Tableau-pg2.png",
+          "images/portfolio/profiles/Tableau-pg3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://public.tableau.com/app/profile/henry.jahja/vizzes",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
         ]
       }
     ],
