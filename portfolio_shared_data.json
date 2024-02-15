@@ -24,18 +24,13 @@
     "skills": {
       "icons": [
         {
+          "name": "Google App Script",
+          "class": "devicon-v8-plain colored",
+          "level": "100"
+        },
+        {
           "name": "Python",
           "class": "devicon-python-plain colored",
-          "level": "60"
-        },
-        {
-          "name": "NumPy",
-          "class": "devicon-numpy-plain colored",
-          "level": "60"
-        },
-        {
-          "name": "Pandas",
-          "class": "devicon-pandas-plain",
           "level": "60"
         },
         {
@@ -52,11 +47,6 @@
           "name": "React.Js",
           "class": "devicon-react-original colored",
           "level": "60"
-        },
-        {
-          "name": "Kafka",
-          "class": "devicon-apachekafka-original",
-          "level": "75"
         },
         {
           "name": "NginX",
@@ -91,11 +81,6 @@
         {
           "name": "Git",
           "class": "devicon-git-plain colored",
-          "level": "65"
-        },
-        {
-          "name": "GCP",
-          "class": "devicon-googlecloud-plain colored",
           "level": "65"
         },
         {
@@ -151,6 +136,11 @@
         {
           "name": "Word Press",
           "class": "devicon-wordpress-plain",
+          "level": "65"
+        },
+        {
+          "name": "UML",
+          "class": "devicon-unifiedmodelinglanguage-plain",
           "level": "65"
         }
       ]
