@@ -80,13 +80,19 @@ header {
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 600%;
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
+}
+
+h1 span {
+	font-size: 200%;
+	font-weight: 700 !important;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .slider-image {
